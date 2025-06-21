@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am an Instructor at the [Heersink School of Medicine, The University of Alabama at Birmingham](https://www.uab.edu/medicine/home/). Before joining UAB, I was a Carver Ph.D. Scholar in the [Roy J. Carver Department of Biomedical Engineering at The University of Iowa](https://engineering.uiowa.edu/bme). My research focuses primarily on medical image analysis, generative deep learning, and image registration. My recent works include the development of generative models for understanding local tissue properties of the lung, especially for characterizing chronic obstructive pulmonary disease (COPD).
 
 
 Updates
