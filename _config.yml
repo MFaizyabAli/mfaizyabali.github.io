@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Faizyab Ali"
+title                    : "Muhammad Faizyab Ali Chaudhary"
 title_separator          : "-"
 name                     : &name "Faizyab"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "MFaizyabAli/mfaizyabali.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Faizyab Ali"
+  name             : "Muhammad Faizyab Ali Chaudhary"
   pronouns         : # example: "she/her"  
   bio              : "Instructor at UAB School of Medicine"
   location         : "Birmingham, AL, USA"
