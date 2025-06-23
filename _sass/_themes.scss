@@ -6,28 +6,29 @@
    TYPOGRAPHY
    ========================================================================== */
 
-/* Used to set the size for <em> */
+/* ==========================================================================
+   TYPOGRAPHY – TESTING WITH COMIC SANS MS
+   ========================================================================== */
+
+/* Base font size */
 $doc-font-size              : 16;
 
 /* Paragraph indention */
-$paragraph-indent           : false; // true, false (default)
+$paragraph-indent           : false;
 $indent-var                 : 1.3em;
 
-/* System typefaces */
+/* System typefaces (for fallback) */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
-/* Sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+/* Custom TEST font – Comic Sans MS */
+$comic                     : 'Comic Sans MS', cursive, sans-serif;
 
-/* Serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+/* Font family overrides for testing */
+$global-font-family         : $comic;
+$header-font-family         : $comic;
+$caption-font-family        : $comic;
 
 /* Type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -38,6 +39,7 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
+
 
 $global-font-family         : 'Roboto', sans-serif;
 $header-font-family         : $sans-serif;
