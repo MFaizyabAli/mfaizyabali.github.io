@@ -14,7 +14,12 @@ My current research involves development of multimodal medical image-to-image tr
 
 
 
-Updates
+Latest Updates
 ------
-- Attended ATS conference in San Francisco (May 2025)
-- Attended ISBI in Houston (April 2025)
+- May 2025 - Presented mortality prediction through visual reads abstract at [Annual Meeting of the American Thoracic Society (ATS)](https://site.thoracic.org/events/ats-2025-international-conference) in San Franscisco
+- May 2025 - Presented my work on deep learning and survival analysis at [COPDGene Spring Meeting](https://copdgene.org) in San Franscisco, CA
+- May 2025 - Podcast by ReachMD highlighting our work on [deep learning and small airways disease](https://reachmd.com/programs/frontlines-copd/advancing-copd-care-ai-driven-tools-for-enhanced-imaging/35538/) goes live
+- April 2025 - Presented my work on uncertainty-aware deformable image registration at [IEEE ISBI 2025](https://biomedicalimaging.org/2025/) in Houston, TX
+- April 2025 - Presented my work on deformable image-to-image translation models at the [SPIROMICS Spring Meeting](https://www.spiromics.org/spiromics/)
+- April 2025 - Paper on QCT textures and systemic inflammation accepted to [Chest](https://doi.org/10.1016/j.chest.2025.04.017)
+- March 2025 - Paper on deep learning estimation of small airways disease accepted to [BLUE](https://www.atsjournals.org/doi/abs/10.1164/rccm.202409-1847OC)
