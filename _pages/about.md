@@ -14,7 +14,7 @@ My current research involves development of multimodal medical image-to-image tr
 
 
 
-Latest Updates
+News
 ------
 - May 2025 - Presented mortality prediction through visual reads abstract at [Annual Meeting of the American Thoracic Society (ATS)](https://site.thoracic.org/events/ats-2025-international-conference) in San Franscisco
 - May 2025 - Presented my work on deep learning and survival analysis at [COPDGene Spring Meeting](https://copdgene.org) in San Franscisco, CA
